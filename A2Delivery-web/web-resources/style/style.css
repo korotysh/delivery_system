@@ -1,0 +1,49 @@
+table {
+    background-color: floralwhite;
+}
+
+.jumbotron {
+    position: relative;
+    text-align: center;
+    padding: 10px;
+}
+
+.nav-tabs {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.tab-content {
+    padding-left: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.tab-content #statusTable {
+
+    text-align: center;
+    margin: auto;
+}
+
+.table.table-bordered {
+    width: 50%;
+    margin: auto;
+}
+
+.table.table-bordered th {
+    background: #333;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.table.table-bordered td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 0;
+}
+
+.table.table-bordered.resources{
+    display: inline;
+    width: auto;
+}
